@@ -1,10 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=red&height=200&section=header&text=This%20Too%20Shall%20pass&fontSize=45)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=This%20Too%20Shall%20pass&fontSize=45)
 
-https://img.shields.io/badge/github-GIVEME--STAR-red
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SANDWITCH72)](https://github.com/SANDWITCH72/github-readme-stats)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=red&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
 
 <!--
